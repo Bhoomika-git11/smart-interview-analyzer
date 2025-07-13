@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+nltk
+vaderSentiment
+matplotlib(option for visualization)
+wordcloud(optional for visualization)
